@@ -4,4 +4,4 @@ This is a Web Site for the new fashion store wich is coming Soon and where users
 
 Suitable for Mobile with max screen 375px.
 
-My site is live at : https://valeri-css.github.io/Coming-Soon-Page/
+My site is live at : https://valeri-css.github.io/Coming-Soon-Page-5/
